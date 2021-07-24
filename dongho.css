@@ -1,0 +1,27 @@
+#gio{
+    font-size: 100px;
+    text-shadow: 5px 2px 4px grey;
+}
+#phut{
+    font-size: 100px;
+    text-shadow: 5px 2px 4px grey;
+}
+#giay{
+    font-size: 100px;
+    text-shadow: 5px 2px 4px grey;
+}
+#thoi_gian{
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    background-color: burlywood;
+    color: white;
+    margin-left: 10px;
+}
+.haicham{
+    font-size: 100px;
+    text-shadow: 5px 2px 4px grey;
+}
+h2{
+    margin-left: 20px;
+}
